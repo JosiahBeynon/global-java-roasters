@@ -1,7 +1,5 @@
-# Welcome to streamlit
+# GlobalJava Roasters
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+This is a mock website for a small, artisan coffee roasting company. The project explores Streamlit functionality and ease.
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
-
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+Based on [Designing Dynamic Python Applications with Streamlit](https://app.dataquest.io/learning/course/designing-dynamic-python-applications-with-streamlit/)
