@@ -71,7 +71,7 @@ instance/
 # Sphinx documentation
 docs/_build/
 
-# Streamlit configuration and cache (example entry)
+# Streamlit configuration and cache
 .streamlit/
 
 # PyBuilder
